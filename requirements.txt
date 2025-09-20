@@ -1,0 +1,10 @@
+fastapi
+uvicorn
+httpx
+pydantic
+google-adk
+google-cloud-aiplatform
+litellm
+streamlit
+python-dotenv
+aiofiles

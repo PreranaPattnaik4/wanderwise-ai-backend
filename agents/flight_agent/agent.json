@@ -1,0 +1,7 @@
+{
+  "name": "FlightsAgent",
+  "description": "Suggests flights for trip planning.",
+  "entry_point": "agents.flight_agent.__main__:app",
+  "port": 8001
+}
+ 
